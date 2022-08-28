@@ -5,7 +5,7 @@
 <p>
   <img src = "https://github-readme-stats.vercel.app/api?username=Manas23601&show_icons=true&theme=github_dark&line_height=27&count_private=true&show_icons=true">
 </p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=Manas23601)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
