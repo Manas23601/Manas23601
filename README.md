@@ -1,20 +1,16 @@
 ### Hi there 👋, My name is Manas Sivakumar
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manas23601)
-<!--
-**Manas23601/Manas23601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p>
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://discordapp.com/users/734728755523747911">
+  <img align="left" alt="Manas's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+<a href="https://twitter.com/Manas79296517">
+  <img align="left" alt="Manas Sivakumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/manas-sivakumar/">
+  <img align="left" alt="Manas's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 
 - 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on AI and Cloud Projects
