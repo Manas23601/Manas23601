@@ -1,14 +1,10 @@
-### Hi there 👋
+### Hi there 👋, My name is Manas Sivakumar
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manas23601)
 <!--
 **Manas23601/Manas23601** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p>
-  <img src = "https://github-readme-stats.vercel.app/api?username=Manas23601&show_icons=true&theme=github_dark&line_height=27&count_private=true&show_icons=true">
-</p>
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,4 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning Kubernetes
+- 👯 I’m looking to collaborate on AI and Cloud Projects
+- 📫 How to reach me: manas23601@gmail.com
+
 <p align="left"><a href="https://github.com/Manas23601?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Manas23601&theme=vue&count_private=true&show_icons=true&hide=issues" alt="github readme stats" height="156"/></a>    <a href="https://github.com/Manas23601?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Manas23601&theme=vue&layout=compact" alt="top langs" height="156"/></a></p>
