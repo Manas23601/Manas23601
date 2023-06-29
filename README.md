@@ -15,7 +15,6 @@ Blog : [whoami](https://manaspilot.blogspot.com/2022/08/whoami.html)
 
 - 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on AI and Cloud Projects
-- 📫 How to reach me: manas23601@gmail.com
 
 Some of my work
 - [Google Summer of Code 2022 | OSGeo.org](https://github.com/pgRouting/pgrouting/wiki/GSoC-2022-Add-Google-OR-Tools-functionality-in-vrpRouting)
