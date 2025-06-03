@@ -1,7 +1,5 @@
 ### Hi there 👋, My name is Manas Sivakumar
 
-Blog : [whoami](https://manaspilot.blogspot.com/2022/08/whoami.html)
-
 - 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on AI and Cloud Projects
 
