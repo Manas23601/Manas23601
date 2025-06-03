@@ -1,4 +1,5 @@
 ### Hi there 👋, My name is Manas Sivakumar
+![Profile Views](https://komarev.com/ghpvc/?username=Manas23601)
 
 - 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on AI and Cloud Projects
