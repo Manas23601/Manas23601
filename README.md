@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manas23601)
 <a href="https://discordapp.com/users/734728755523747911">
-  <img align="left" alt="Manas's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Manas's Discord" width="22px" src="./discord-icon-svgrepo-com.svg" />
 </a>
 <a href="https://twitter.com/Manas79296517">
   <img align="left" alt="Manas Sivakumar | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
